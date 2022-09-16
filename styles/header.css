@@ -120,6 +120,7 @@
     border-radius: 16px;
     margin-right: 20px;
     object-position: top;
+    cursor: pointer;
 }
 
 .search-btn .tooltip, .voice-search-btn .tooltip, .tooltip-wrapper .tooltip, .notifications-icon-container .tooltip {
